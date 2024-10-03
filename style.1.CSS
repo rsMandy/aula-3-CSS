@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+ .caixa{
+    margin: 5rem  9.5rem;
+    padding: 20px;
+    background-image: url(./src/imagem/fundo\ 4);
+    border: 2px solid #EBBDBF;
+    width: 90%;
+    height: 50vh;
+ }
+
+ h1{
+    color: #473a3e;
+    
+ }
+
+ h2{
+    color: #c75471;
+ }
+
+ .mensagem{
+    margin: 10px;
+    padding: 16px;
+    border: 1px dashed #c7577c;
+    border-radius: 70px;
+    background-color: #f7e9ea;
+ }
